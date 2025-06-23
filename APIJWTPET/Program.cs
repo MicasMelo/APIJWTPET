@@ -19,9 +19,9 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ValidateAudience = true,
             ValidateLifetime = true,
             ValidateIssuerSigningKey = true,
-            ValidIssuer = "https://localhost:7187/", // Defina o emissor do token
-            ValidAudience = "https://localhost:7159/", // Defina a audiência do token
-            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("12345678901234567890123456789012")) // Defina a chave secreta para assinatura
+            ValidIssuer = "https://localhost:7187/", // Emissor do token
+            ValidAudience = "https://localhost:7159/", // Audiência do token
+            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("12345678901234567890123456789012")) // Chave para assinatura
         };
     });
 

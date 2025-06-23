@@ -32,7 +32,7 @@ public class AuthController : ControllerBase
     private string GenerateJwtToken()
     {
         var tokenHandler = new JwtSecurityTokenHandler();
-        var key = Encoding.UTF8.GetBytes("12345678901234567890123456789012"); // ou _configuration["Jwt:Key"]
+        var key = Encoding.UTF8.GetBytes("12345123451234512345123451234512");
         var tokenDescriptor = new SecurityTokenDescriptor
         {
             Subject = new ClaimsIdentity(new Claim[]

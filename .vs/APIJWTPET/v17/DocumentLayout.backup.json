@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\almir\\APIJWTPET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C7DCBA9-26AE-4E66-B927-A600E10DBFDD}|APIJWTPET\\APIJWTPET.csproj|c:\\almir\\apijwtpet\\apijwtpet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C7DCBA9-26AE-4E66-B927-A600E10DBFDD}|APIJWTPET\\APIJWTPET.csproj|solutionrelative:apijwtpet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7C7DCBA9-26AE-4E66-B927-A600E10DBFDD}|APIJWTPET\\APIJWTPET.csproj|c:\\almir\\apijwtpet\\apijwtpet\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C7DCBA9-26AE-4E66-B927-A600E10DBFDD}|APIJWTPET\\APIJWTPET.csproj|solutionrelative:apijwtpet\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7DCBA9-26AE-4E66-B927-A600E10DBFDD}|APIJWTPET\\APIJWTPET.csproj|c:\\almir\\apijwtpet\\apijwtpet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7DCBA9-26AE-4E66-B927-A600E10DBFDD}|APIJWTPET\\APIJWTPET.csproj|solutionrelative:apijwtpet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\almir\\APIJWTPET\\APIJWTPET\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "APIJWTPET\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\almir\\APIJWTPET\\APIJWTPET\\Controllers\\AuthController.cs",
               "RelativeToolTip": "APIJWTPET\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA5wA8AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T12:33:04.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\almir\\APIJWTPET\\APIJWTPET\\Program.cs",
               "RelativeDocumentMoniker": "APIJWTPET\\Program.cs",
               "ToolTip": "C:\\almir\\APIJWTPET\\APIJWTPET\\Program.cs",
               "RelativeToolTip": "APIJWTPET\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T12:14:54.648Z",
               "EditorCaption": ""

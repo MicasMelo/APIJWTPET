@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIJWTPET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18e707faf26b1dd826aa291e1f178ea256a21486")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4cfaaf55711ca5aa78ec01be7d074bc5d15a53f")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIJWTPET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIJWTPET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
